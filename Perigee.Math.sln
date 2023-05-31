@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perigee.Math", "Perigee.Math\Perigee.Math.csproj", "{A3B75738-7C8E-4F43-B2B8-B90EBD69524E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perigee.Math.UnitTests", "Perigee.Math.UnitTests\Perigee.Math.UnitTests.csproj", "{99D21AD3-9A57-4F00-8684-21B5F88A02C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3B75738-7C8E-4F43-B2B8-B90EBD69524E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B75738-7C8E-4F43-B2B8-B90EBD69524E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B75738-7C8E-4F43-B2B8-B90EBD69524E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B75738-7C8E-4F43-B2B8-B90EBD69524E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D21AD3-9A57-4F00-8684-21B5F88A02C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D21AD3-9A57-4F00-8684-21B5F88A02C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D21AD3-9A57-4F00-8684-21B5F88A02C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D21AD3-9A57-4F00-8684-21B5F88A02C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {956BDFD2-0EFC-44D6-8D97-192AFF31000E}
+	EndGlobalSection
+EndGlobal
